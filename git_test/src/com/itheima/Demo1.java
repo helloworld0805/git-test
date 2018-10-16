@@ -14,5 +14,6 @@ public class Demo1 {
 
     public void test(){
         System.out.println("fasdfa");
+        System.out.println("fsdafas");
     }
 }
